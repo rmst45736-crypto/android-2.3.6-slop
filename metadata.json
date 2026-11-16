@@ -1,0 +1,8 @@
+{
+  "name": "Cadence",
+  "description": "Dark glassmorphism deadline task manager with 6-hour stacked early reminders, difficulty-shifted urgency gradients, and custom ringtones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
